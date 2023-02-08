@@ -1,11 +1,11 @@
 
-> Open this page at [https://mbakhtar.github.io/plants-pollinators-v1/](https://mbakhtar.github.io/plants-pollinators-v1/)
+> Open this page at [Plants and Pollinators Tutorial](https://mbakhtar.github.io/plants-pollinators-v1/)
 
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Plants and Pollinators Tutorial Makecode Editor](https://makecode.microbit.org/#tutorial:github:mbakhtar/plants-pollinators-v1/plantspoll-v1)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/plants-pollinators-v1** and import
